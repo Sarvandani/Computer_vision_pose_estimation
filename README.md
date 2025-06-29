@@ -8,3 +8,6 @@ In the context of human pose estimation, the goal is to identify and locate key 
 
 <img src='https://github.com/Sarvandani/Computer_vision_pose_estimation/blob/main/POSE_IMG.png' width="500" height="800">
 
+<img src='https://github.com/Sarvandani/Computer_vision_pose_estimation/blob/main/pos_image.png' width="500" height="800">
+
+
